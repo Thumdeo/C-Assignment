@@ -1,0 +1,1 @@
+// Q14 Write a java code to check if string is palindrome
