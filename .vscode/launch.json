@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Que7",
+      "request": "launch",
+      "mainClass": "Que7",
+      "projectName": "C Assignment_28a81be3"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",

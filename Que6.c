@@ -1,7 +1,6 @@
 // Q6. Write a program to perform matrix multiplication.
 #include <stdio.h>
 
-
 int main(){
     int i,j,a,b,product1;
     int  c[4][4] = { {1, 3, 0, 4}, 
